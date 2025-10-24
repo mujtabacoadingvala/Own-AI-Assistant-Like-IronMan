@@ -1,12 +1,11 @@
-# voice_qabot.py
-# Run with: python voice_qabot.py
-# Requirements: pip install SpeechRecognition pyttsx3 pyaudio
+# import re
+# import sys
+# import speech_recognition as sr
+# import pyttsx3
+# from difflib import get_close_matches
 
-import re
-import sys
-import speech_recognition as sr
-import pyttsx3
-from difflib import get_close_matches
+
+
 
 BOT_NAME = "MUJTABA Assistant"
 DEVELOPER = "Mujtaba"
