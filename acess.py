@@ -4,7 +4,6 @@ import urllib.parse
 # import pyttsx3
 
 
-
 # --- Website shortcuts ---
 COMMON = {
     # "youtube": "https://www.youtube.com",
