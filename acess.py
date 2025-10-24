@@ -1,20 +1,16 @@
 import webbrowser
 import urllib.parse
-import speech_recognition as sr
-import pyttsx3
+# import speech_recognition as sr
+# import pyttsx3
+
+
 
 # --- Website shortcuts ---
 COMMON = {
-    "youtube": "https://www.youtube.com",
-    "google": "https://www.google.com",
-    "facebook": "https://www.facebook.com",
-    "instagram": "https://www.instagram.com",
-    "tiktok": "https://www.tiktok.com",
-    "microsoft": "https://www.microsoft.com",
-    "twitter": "https://twitter.com",
-    "github": "https://github.com",
-    "linkedin": "https://www.linkedin.com",
+    # "youtube": "https://www.youtube.com",
 }
+
+
 
 # --- Setup speech & voice engine ---
 recognizer = sr.Recognizer()
